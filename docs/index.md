@@ -40,7 +40,7 @@ pip install .
 
 ## Get started
 
-The repository contains a self-explanatory [Jupyter Notebook](/../notebooks/stochasten_workflow.ipynb) (in Dutch). You can open it in an activated environment in the notebooks directory by:
+The repository contains a self-explanatory [Jupyter Notebook](https://github.com/d2hydro/HYDROLIB-CMT/blob/8e06a26b2c5eae892e17d0840550ad47b0e0c6cd/notebooks/stochasten_workflow.ipynb) (in Dutch). You can open it in an activated environment in the notebooks directory by:
 
 ```
 jupyter notebook stochasten_workflow.ipynb
