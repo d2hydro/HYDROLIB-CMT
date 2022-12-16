@@ -23,6 +23,8 @@ CMT includes:
 
 ## Installation
 
+### New environment
+
 We recommend to build your environment using [Anaconda](https://www.anaconda.com/). You can build an environment ánd install CMT by conda in one go using this <a href="https://github.com/d2hydro/HYDROLIB-CMT/blob/51b142740e9930b0d08ef300c37ad23646b7b6c8/envs/environment.yml" target="_blank">environment.yml</a> from the command-line:
 ```
 conda env create -f environment.yml
@@ -33,6 +35,7 @@ After creating your environment you can activate it with:
 conda activate hydrolib
 ```
 
+### Existing environment
 In an existing hydrolib-environment hydrolib-cmt can be added by:
 ```
 pip install hydrolib-cmt
