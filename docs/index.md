@@ -48,4 +48,4 @@ jupyter notebook stochasten_workflow.ipynb
 
 ## About
 
-Case Management Tools is developed and maintained by [D2Hydro](https://d2hydro.nl/) and freely available under an Open Source <a href="https://github.com/Deltares/HYDROLIB/blob/main/hydrolib/case_management_tools/LICENSE" target="_blank">MIT license</a>.
+Case Management Tools is developed and maintained by [D2Hydro](https://d2hydro.nl/) and freely available under an Open Source <a href="https://github.com/d2hydro/HYDROLIB-CMT/blob/main/LICENSE" target="_blank">MIT license</a>.
