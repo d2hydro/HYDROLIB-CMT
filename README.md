@@ -15,7 +15,7 @@ CMT includes:
 
 ---
 
-**Documentation**: [https://d2hydro.github.io/hydrolib-cmt](https://d2hydro.github.io/hydrolib-cmt)
+**Documentation**: [https://d2hydro.github.io/HYDROLIB-CMT/](https://d2hydro.github.io/HYDROLIB-CMT/)
 
 **Source Code**: [https://github.com/d2hydro/hydrolib-cmt](https://github.com/d2hydro/hydrolib-cmt)
 
@@ -23,7 +23,7 @@ CMT includes:
 
 ## Installation
 
-We recommend to build your environment using [Anaconda](https://www.anaconda.com/). You can build an environment ánd install CMT by conda in one go using this <a href="https://github.com/Deltares/HYDROLIB/blob/main/hydrolib/case_management_tools/envs/environment.yml" target="_blank">environment.yml</a> from the command-line:
+We recommend to build your environment using [Anaconda](https://www.anaconda.com/). You can build an environment ánd install CMT by conda in one go using this <a href="https://github.com/d2hydro/HYDROLIB-CMT/blob/51b142740e9930b0d08ef300c37ad23646b7b6c8/envs/environment.yml" target="_blank">environment.yml</a> from the command-line:
 ```
 conda env create -f environment.yml
 ```
