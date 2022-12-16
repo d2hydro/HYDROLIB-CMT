@@ -36,7 +36,7 @@ conda activate hydrolib
 ```
 
 ### Existing environment
-In an existing hydrolib-environment hydrolib-cmt can be added by:
+In an activated existing hydrolib-environment hydrolib-cmt can be added with:
 ```
 pip install hydrolib-cmt
 ```
