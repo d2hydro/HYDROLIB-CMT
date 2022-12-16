@@ -33,9 +33,9 @@ After creating your environment you can activate it with:
 conda activate hydrolib
 ```
 
-In that activated environment you can add cmt with pip in the setup.py directory:
+In an existing hydrolib-environment hydrolib-cmt can be added by:
 ```
-pip install .
+pip install hydrolib-cmt
 ```
 
 ## Get started
